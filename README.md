@@ -1,6 +1,6 @@
 # PCLGCN
 
-This is a pytorch code of PCLGCN(IEEE Transcation of intelligent transportation systems)
+This is a pytorch code of PCLGCN(IEEE Transcation of intelligent transportation systems) under review, thus don't refer or use it!!!
 # datasets: Chinese Cities speed data and POI data in JiNan, XiAn, ShenZhen and ChengDu 
 
 # Instructions for use：
