@@ -16,3 +16,7 @@ Secondly, you should run the train.py and train_h.py, and in two python file, yo
 最后，运行的时候你需要选择模型，一般来说，一个原始的图卷积预测模型例如HGCN，它对应了两个模型:一个是PHGCN，它对应HGCN_POI；另一个MMHGCN，它对应PCLHCN.
 
 
+The code and datasets website:https://pan.baidu.com/s/1kie4I0PHZICu8LCqcbHr2g  key：wcrk 
+数据集和代码地址：链接：https://pan.baidu.com/s/1kie4I0PHZICu8LCqcbHr2g  提取码：wcrk 
+
+# Have a nice day!
