@@ -22,9 +22,9 @@ Firstly, you should run generate_data.py and genenrate_adjacent.py to generate a
 
 secondly,
 
-run train.py --force True --model (you can select from MMSTGCN, MMOGCRNN, MMASTGCN_Recent, and MMgwnet) --poi data/XiAn_City/POI_data_(100 to 900, you selcet).csv
+run train.py --force True --model (you can select from MMSTGCN, MMOGCRNN, MMASTGCN_Recent, and MMgwnet) --poi data/JiNan_City/POI_data_(100 to 900, you selcet).csv
 
 or 
 
-python train.py --force True --model (you can select from MMSTGCN, MMOGCRNN, MMASTGCN_Recent, and MMgwnet) --poi data/XiAn_City/POI_data_(100 to 900, you selcet).csv
+python train.py --force True --model (you can select from MMSTGCN, MMOGCRNN, MMASTGCN_Recent, and MMgwnet) --poi data/JiNan_City/POI_data_(100 to 900, you selcet).csv
 
