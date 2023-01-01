@@ -5,6 +5,8 @@ This is a pytorch code of PCLGCN under review, thus don't refer or use it!!!
 
 # Instructions for use：
 
-You should select the datasets such as :jinan or xian.
+You should select the datasets such as :JiNan or XiAn.
+
+And find their code!
 
 # Have a nice day!
