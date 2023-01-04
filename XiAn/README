@@ -28,4 +28,4 @@ or
 
 python train.py --force True --model (you can select from MMSTGCN, MMOGCRNN, MMASTGCN_Recent, and MMgwnet) --poi data/XiAn_City/POI_data_(100 to 900, you selcet).csv
 
-
+The dataset and saving model can be found in BaiduYun: website：https://pan.baidu.com/s/1AxGp0YdvQBqALamfyb12_Q key：pjbq
